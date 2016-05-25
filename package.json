@@ -20,5 +20,13 @@
   },
   "dependencies": {
     "extend": "^3.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersaloof/modernizr-auto-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andersaloof/modernizr-auto-loader/issues"
+  },
+  "homepage": "https://github.com/andersaloof/modernizr-auto-loader#readme"
 }
