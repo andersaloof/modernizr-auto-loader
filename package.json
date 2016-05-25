@@ -1,0 +1,24 @@
+{
+  "name": "modernizr-auto-loader",
+  "version": "0.0.1",
+  "description": "Builds a custom modernizr for use with webpack",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "modernizr",
+    "customizr",
+    "webpack",
+    "loader"
+  ],
+  "author": "Anders S. Øfsdahl <anders@aloof.no>",
+  "license": "MIT",
+  "peerDependencies": {
+    "customizr": "^1.0.0-alpha"
+  },
+  "devDependencies": {
+    "eslint": "^1.9.0"
+  },
+  "dependencies": {
+    "extend": "^3.0.0"
+  }
+}
