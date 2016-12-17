@@ -27,6 +27,8 @@ module.exports = function (config) {
     this.cacheable()
   }
 
+  delete settings.runOnce;
+
   var cb = this.async();
 
   customizr(settings, function (data) {
