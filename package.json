@@ -1,6 +1,6 @@
 {
   "name": "modernizr-auto-loader",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Builds a custom modernizr for use with webpack",
   "main": "index.js",
   "scripts": {},
